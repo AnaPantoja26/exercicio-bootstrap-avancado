@@ -13,11 +13,7 @@ header {
     align-items: center;  
 }
 
-header img {
-    width: 400px;
-    height: 100px;
-    margin-left: 20px;
-}
+
 
 .carousel-inner {
     height: 500px;
@@ -32,11 +28,6 @@ header img {
     height: 415px;
 }
 
-@media screen and (min-width: 641px) and (max-width: 1024px){
-   .row {
-    grid-template-columns: repeat(2, 1fr)
-   }
-   
+#image {
+    height: 500px;
 }
-
-
