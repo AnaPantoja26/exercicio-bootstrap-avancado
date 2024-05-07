@@ -13,8 +13,6 @@ header {
     align-items: center;  
 }
 
-
-
 .carousel-inner {
     height: 500px;
 }
@@ -30,4 +28,10 @@ header {
 
 #image {
     height: 500px;
+}
+
+header img{
+    width: 330px;
+    height: 100px;
+    margin-left: 100px;
 }
